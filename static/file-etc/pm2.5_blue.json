@@ -1,0 +1,143 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/blue.png?alt=media&token=d9c3676d-5d2a-4956-b9ea-2be3387682be",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "label": "Line",
+        "uri": "https://linecorp.com/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "borderWidth": "4px",
+      "backgroundColor": "#84C8F4FF",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "AQI",
+                  "weight": "bold",
+                  "size": "xxl",
+                  "flex": 3,
+                  "contents": []
+                },
+                {
+                  "type": "text",
+                  "text": "%s ",
+                  "weight": "bold",
+                  "size": "xxl",
+                  "flex": 4,
+                  "margin": "lg",
+                  "contents": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "PM2.5",
+                  "weight": "bold",
+                  "size": "xxl",
+                  "flex": 3,
+                  "contents": []
+                },
+                {
+                  "type": "text",
+                  "text": "%s ug/m³",
+                  "weight": "bold",
+                  "size": "xxl",
+                  "flex": 4,
+                  "margin": "lg",
+                  "wrap": true,
+                  "contents": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "ที่ตั้ง",
+                  "weight": "bold",
+                  "size": "sm",
+                  "color": "#666666",
+                  "flex": 2,
+                  "contents": []
+                },
+                {
+                  "type": "text",
+                  "text": "%s",
+                  "weight": "bold",
+                  "size": "sm",
+                  "color": "#666666",
+                  "flex": 5,
+                  "wrap": true,
+                  "contents": []
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อัพเดทเมื่อ",
+                  "weight": "bold",
+                  "size": "sm",
+                  "color": "#666666",
+                  "flex": 2,
+                  "contents": []
+                },
+                {
+                  "type": "text",
+                  "text": "%s เวลา %s น.",
+                  "weight": "bold",
+                  "size": "sm",
+                  "color": "#666666",
+                  "flex": 5,
+                  "wrap": true,
+                  "contents": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

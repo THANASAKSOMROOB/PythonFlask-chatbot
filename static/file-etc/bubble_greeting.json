@@ -1,0 +1,219 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "url": "https://cdn1.vectorstock.com/i/1000x1000/01/45/flood-rescue-vector-19930145.jpg",
+                "size": "full",
+                "aspectRatio": "20:13",
+                "aspectMode": "cover"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "backgroundColor": "#AFE6F1FF",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "ปัญหาน้ำท่วม",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    },
+                    {
+                        "type": "text",
+                        "text": "Flood problem",
+                        "weight": "bold",
+                        "align": "center",
+                        "contents": []
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "backgroundColor": "#AFE6F1FF",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "แจ้งปัญหาน้ำท่วม",
+                            "text": "แจ้งปัญหาน้ำท่วม"
+                        },
+                        "style": "primary"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "url": "https://media.istockphoto.com/vectors/road-surface-repair-vector-id908629216?k=20&m=908629216&s=612x612&w=0&h=I_9xoYdlwLsm4OQ5vgMee47GO5tJ8o4ewuBncrCHPwI=",
+                "size": "full",
+                "aspectRatio": "20:13",
+                "aspectMode": "cover"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "backgroundColor": "#FAFABBFF",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "ปัญหาเกี่ยวกับถนน",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    },
+                    {
+                        "type": "text",
+                        "text": "Road problem",
+                        "weight": "bold",
+                        "align": "center",
+                        "contents": []
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "backgroundColor": "#FAFABBFF",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "แจ้งปัญหาถนน",
+                            "text": "แจ้งปัญหาถนน"
+                        },
+                        "flex": 2,
+                        "style": "primary"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "url": "https://leverageedu.com/blog/wp-content/uploads/2019/09/Electrical.png",
+                "size": "full",
+                "aspectRatio": "20:13",
+                "aspectMode": "cover"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "backgroundColor": "#E5F6C0FF",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "ปัญหาไฟฟ้า",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    },
+                    {
+                        "type": "text",
+                        "text": "Electrical problem",
+                        "weight": "bold",
+                        "align": "center",
+                        "contents": []
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "backgroundColor": "#E5F6C0FF",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "แจ้งปัญหาไฟฟ้า",
+                            "text": "แจ้งปัญหาไฟฟ้า"
+                        },
+                        "style": "primary"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "url": "https://c.neh.tw/thumb/f/720/comvecteezy297944.jpg",
+                "size": "full",
+                "aspectRatio": "20:13",
+                "aspectMode": "cover"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "backgroundColor": "#DFC9AFFF",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "ปัญหาขยะ",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "flex": 1,
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "Garbage problem",
+                                "weight": "bold",
+                                "size": "md",
+                                "align": "center",
+                                "contents": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "backgroundColor": "#DFC9AFFF",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "แจ้งปัญหาขยะ",
+                            "text": "แจ้งปัญหาขยะ"
+                        },
+                        "flex": 2,
+                        "style": "primary"
+                    }
+                ]
+            }
+        }
+    ]
+}

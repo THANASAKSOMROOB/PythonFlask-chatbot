@@ -1,0 +1,57 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/ticket.png?alt=media&token=77280810-f36e-48e4-aae1-74a30bfcdd0e",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "label": "Action",
+        "uri": "https://linecorp.com/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "md",
+      "backgroundColor": "#B4FAD4FF",
+      "contents": [
+        {
+          "type": "text",
+          "text": "รหัสติดตามผลการแจ้งปัญหา",
+          "weight": "bold",
+          "size": "lg",
+          "gravity": "center",
+          "wrap": true,
+          "contents": []
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "horizontal",
+      "flex": 1,
+      "backgroundColor": "#26EF84FF",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "borderWidth": "5px",
+          "backgroundColor": "#CFF8E4FF",
+          "contents": [
+            {
+              "type": "text",
+              "text": "%s",
+              "weight": "bold",
+              "color": "#020000FF",
+              "align": "center",
+              "decoration": "underline",
+              "contents": []
+            }
+          ]
+        }
+      ]
+    }
+  }

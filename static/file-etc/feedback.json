@@ -1,0 +1,45 @@
+{
+    "type": "bubble",
+    "hero": {
+        "type": "image",
+        "url": "https://media.istockphoto.com/vectors/feedback-speech-bubble-icon-vector-design-vector-id1276662661?k=20&m=1276662661&s=170667a&w=0&h=s-CbyhLMFTaRUQ45pdAriAcsg8pn6O-QHvXe_C_spos=",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#D9CA4FFF",
+        "contents": [
+            {
+                "type": "text",
+                "text": "แจ้งข้อเสนอแนะ",
+                "weight": "bold",
+                "size": "xl",
+                "color": "#95560FFF",
+                "wrap": true,
+                "contents": []
+            }
+        ]
+    },
+    "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#D9CA4FFF",
+        "contents": [
+            {
+                "type": "button",
+                "action": {
+                    "type": "uri",
+                    "label": "คลิกที่นี่",
+                    "uri": "https://4fd8-125-24-110-172.ngrok.io/feedback"
+                },
+                "color": "#674141FF",
+                "style": "primary"
+            }
+        ]
+    }
+}

@@ -1,0 +1,432 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/air77.jpg?alt=media&token=071ef5df-8a62-43d7-8a12-f8ef0f6fd248",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#18F4E7FF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "%s",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#000000FF",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/car2.png?alt=media&token=e9035201-7580-467d-b1cb-9118410ae33e",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "ระยะทาง : %s",
+                "size": "lg",
+                "color": "#020000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/time2.png?alt=media&token=cb08c04a-47a4-47ba-94bb-d8e837f31902",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "เวลาการเดินทาง: %s",
+                "size": "lg",
+                "color": "#020000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#B4EFF0FF",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "คลิกที่นี่",
+              "uri": "%s"
+            },
+            "color": "#26CCBDFF",
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/air33.jpg?alt=media&token=16d9598d-3eb5-4b09-8d73-82acc5d7271c",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#BCF425FF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "%s",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#020000FF",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/car2.png?alt=media&token=e9035201-7580-467d-b1cb-9118410ae33e",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "ระยะทาง : %s",
+                "size": "lg",
+                "color": "#000000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/time2.png?alt=media&token=cb08c04a-47a4-47ba-94bb-d8e837f31902",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "เวลาการเดินทาง: %s",
+                "size": "lg",
+                "color": "#0B0000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#E7F7B2FF",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "คลิกที่นี่",
+              "uri": "%s"
+            },
+            "flex": 2,
+            "color": "#8BD00CFF",
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/air44.png?alt=media&token=c4424eaa-a8d0-463b-bfca-10aba31a8ae2",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#F65AB1FF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "%s",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#000000FF",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/car2.png?alt=media&token=e9035201-7580-467d-b1cb-9118410ae33e",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "ระยะทาง : %s",
+                "size": "lg",
+                "color": "#060000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/time2.png?alt=media&token=cb08c04a-47a4-47ba-94bb-d8e837f31902",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "เวลาการเดินทาง: %s",
+                "size": "lg",
+                "color": "#060000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#F6B5F4FF",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "คลิกที่นี่",
+              "uri": "%s"
+            },
+            "color": "#F568CEFF",
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/air55.jpg?alt=media&token=44404061-62b8-4664-9ccf-64af6258a168",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#EC6B41FF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "%s",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#060000FF",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/car2.png?alt=media&token=e9035201-7580-467d-b1cb-9118410ae33e",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "ระยะทาง : %s",
+                "size": "lg",
+                "color": "#060000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/time2.png?alt=media&token=cb08c04a-47a4-47ba-94bb-d8e837f31902",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "เวลาการเดินทาง: %s",
+                "size": "lg",
+                "color": "#060000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#F6B49AFF",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "คลิกที่นี่",
+              "uri": "%s"
+            },
+            "flex": 2,
+            "color": "#F78548FF",
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/air66.jpg?alt=media&token=652e25e8-f010-4d36-b201-9c239b4f513f",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#F85A45FF",
+        "contents": [
+          {
+            "type": "text",
+            "text": "%s",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#060000FF",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/car2.png?alt=media&token=e9035201-7580-467d-b1cb-9118410ae33e",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "ระยะทาง : %s",
+                "size": "lg",
+                "color": "#060000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/x--gcyd.appspot.com/o/time2.png?alt=media&token=cb08c04a-47a4-47ba-94bb-d8e837f31902",
+                "size": "3xl",
+                "offsetTop": "4px"
+              },
+              {
+                "type": "text",
+                "text": "เวลาการเดินทาง: %s",
+                "size": "lg",
+                "color": "#040000FF",
+                "margin": "md",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#EF8B8BFF",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "คลิกที่นี่",
+              "uri": "%s"
+            },
+            "color": "#F53D3DFF",
+            "style": "primary"
+          }
+        ]
+      }
+    }
+  ]
+}
